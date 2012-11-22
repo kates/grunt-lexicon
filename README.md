@@ -9,6 +9,22 @@ Then add this line to your project's `grunt.js` gruntfile:
 
 ```javascript
 grunt.loadNpmTasks('grunt-lexicon');
+grunt.config.init({
+  lexicon: {
+    all: {
+      src: ["src/**/*.js"],
+      dest: "docs",
+      options: {
+        title: "The Docs",
+        format: "html"
+      }
+    }
+  }
+});
+```
+And finally invoke it by
+```bash
+grunt lexicon
 ```
 
 [grunt]: https://github.com/cowboy/grunt

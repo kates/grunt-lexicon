@@ -28,6 +28,11 @@
   "scripts": {
     "test": "grunt test"
   },
+  "dependencies": {
+    "lexicon": "*",
+    "rimraf": "*",
+    "marked": "*"
+  },
   "devDependencies": {
     "grunt": "~0.3.15"
   },

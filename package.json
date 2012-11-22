@@ -1,0 +1,37 @@
+{
+  "name": "grunt-lexicon",
+  "description": "grunt plugin for lexicon",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kates/grunt-lexicon",
+  "author": {
+    "name": "kates",
+    "email": "katesgasis@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kates/grunt-lexicon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kates/grunt-lexicon/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kates/grunt-lexicon/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "grunt.js",
+  "bin": "bin/grunt-lexicon",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.15"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

@@ -1,23 +1,23 @@
 {
   "name": "grunt-lexicon",
   "description": "grunt plugin for lexicon",
-  "version": "0.1.1",
-  "homepage": "https://github.com/kates/grunt-lexicon",
+  "version": "0.1.2",
+  "homepage": "https://github.com/englishtown/grunt-lexicon",
   "author": {
     "name": "kates",
-    "email": "katesgasis@gmail.com"
+    "email": "kates.gasis@ef.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kates/grunt-lexicon.git"
+    "url": "https://github.com/englishtown/grunt-lexicon.git"
   },
   "bugs": {
-    "url": "https://github.com/kates/grunt-lexicon/issues"
+    "url": "https://github.com/englishtown/grunt-lexicon/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/kates/grunt-lexicon/blob/master/LICENSE-MIT"
+      "url": "https://github.com/englishtown/grunt-lexicon/blob/master/LICENSE-MIT"
     }
   ],
   "main": "grunt.js",

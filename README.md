@@ -2,6 +2,8 @@
 
 grunt plugin for lexicon
 
+**This project has moved to https://github.com/englishtown/grunt-lexicon**
+
 ## Getting Started
 Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: `npm install grunt-lexicon`
 
